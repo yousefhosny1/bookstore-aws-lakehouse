@@ -58,7 +58,7 @@ CREATE TABLE top100books (
 COPY top100books
 FROM 's3://task-us-east-1/output/top-100-books/part'
 credentials
-'aws_access_key_id=AKIAXF653U53SDBOELGK;aws_secret_access_key=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'
+'aws_access_key_id=######;aws_secret_access_key=#########'
 CSV
 IGNOREHEADER 1
 DELIMITER ',';
