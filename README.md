@@ -1,6 +1,6 @@
 # Online Bookstore Data Lakehouse in AWS
 ***
-> **Note:** The project's business case/requirement was designed totally by me, I ensured that it is aligned with SOCAR's prime value (Customer Fascination) and that it simulates a real world scenario. 
+> **Note:** The project's business case/requirement was designed totally by me, I ensured that it simulates a real world scenario. 
 
 
 # Hypothetical Business Case:
@@ -187,14 +187,4 @@ Finally, as I am looking to buy a book, I have decided to run a query to see the
 ### Top 10 Authors by Average Ratings
 [![Top-10-Authors.png](https://i.postimg.cc/tJygtYxp/Top-10-Authors.png)](https://postimg.cc/7GsDqP9W)
 
-# Achieved Tasks
-
-1. Set up a data lake in the AWS account provided separately and store big data
-from the source in raw format :white_check_mark:
-2. Incorporate a queuing system or job scheduler :white_check_mark:
-3. Set up a Spark instance to perform big data processing functions :white_check_mark:
-4. Perform a selected ETL function and store the results in S3 :white_check_mark:
-5. Implement a simple visualization of the transformed data using a tool of choice. :white_check_mark:
-6. Write a description of the implemented architecture and explain rationale for the
-key decisions made during implementation. :white_check_mark:
 
